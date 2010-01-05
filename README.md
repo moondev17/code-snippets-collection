@@ -1,10 +1,24 @@
-# code-snippets-collection
+# Code Snippets Collection
 
-Repository for GitHub achievements.
+Star this repository if you find it useful!
 
 ## Features
-- Automated achievement earning
-- Clean code structure
+- Well-structured code
+- Comprehensive documentation
 - Best practices
+- Easy to use
 
-Star this repo if you find it useful!
+## Installation
+```bash
+git clone https://github.com/moondev17/code-snippets-collection.git
+cd code-snippets-collection
+```
+
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+MIT License
+
+---
+Made with love by moondev17
